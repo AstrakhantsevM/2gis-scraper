@@ -112,6 +112,8 @@ It includes:
 - Helper method for updating status fields
 - Cleaner tracking of page loops and item loops
 
+<img width="542" height="56" alt="image" src="https://github.com/user-attachments/assets/01843908-102c-4495-a941-b0cac4b56700" />
+
 This allows the scraper to show progress on two levels:
 
 1. Pagination progress
